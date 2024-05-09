@@ -42,10 +42,14 @@ public class Main {
             }
 
         }
+
     }
 
     public static void nuevaClase(){
-
     }
+
+    private String persona;
+    private int numero;
+
 
 }
